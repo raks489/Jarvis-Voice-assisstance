@@ -46,3 +46,5 @@ Run the chatbot: python main.py
 Chat naturally or use special commands like "help" or "exit"
 
 The chatbot will respond to basic queries using pattern matching and will use the OpenAI API for more complex conversations when enabled.
+
+# -Rahat Shaikh
